@@ -1,2 +1,3 @@
-# nova-security-scanner-k6qk
-Automated issue comment bot repository
+# Nova Security Scanner K6Qk
+
+Automated issue comment bot repository.
